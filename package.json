@@ -42,7 +42,7 @@
       "shortid": "^2.2.15",
       "sqlite3": "^4.0.3",
       "ts-node-dev": "^1.0.0-pre.44",
-      "typeorm": "0.2.22",
+      "typeorm": "0.2.25",
       "typeorm-naming-strategies": "^1.1.0"
    }
 }
